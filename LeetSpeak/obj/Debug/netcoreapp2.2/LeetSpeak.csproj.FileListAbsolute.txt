@@ -1,0 +1,11 @@
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.csprojAssemblyReference.cache
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.AssemblyInfoInputs.cache
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.AssemblyInfo.cs
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\bin\Debug\netcoreapp2.2\LeetSpeak.deps.json
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\bin\Debug\netcoreapp2.2\LeetSpeak.dll
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\bin\Debug\netcoreapp2.2\LeetSpeak.pdb
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.dll
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\obj\Debug\netcoreapp2.2\LeetSpeak.pdb
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\bin\Debug\netcoreapp2.2\LeetSpeak.runtimeconfig.json
+C:\Users\Steven\Desktop\epi\c#\leetspeak\LeetSpeak\bin\Debug\netcoreapp2.2\LeetSpeak.runtimeconfig.dev.json
